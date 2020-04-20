@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "127494003602",
+    "firebase_url": "https://handcycle-959f5.firebaseio.com",
+    "project_id": "handcycle-959f5",
+    "storage_bucket": "handcycle-959f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127494003602:android:30c78278fd77b30d6e7f4b",
+        "android_client_info": {
+          "package_name": "com.handcycle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127494003602-opp7ssqfmm7qs6dkr410mju1jq9vqrpa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbh8uvhDHoaBtKEK21FW2Ix4yu-0y2Im4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127494003602-opp7ssqfmm7qs6dkr410mju1jq9vqrpa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
