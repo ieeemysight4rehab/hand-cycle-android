@@ -19,11 +19,11 @@
 
 ## Getting Started
 
-This is a mobile app developed for project name "[Development of low cost upper and lower extremities rehabilitation system with interactive feedback for children with movement disorders](https://ieeexplore.ieee.org/document/7843556/)", which capable of communicating with [Firebase](https://firebase.google.com/) host and [Arduino](https://www.arduino.cc/) board via Bluetooth communication. This project is developed altogether with a website (Repository: [HandCycleWeb](https://github.com/jerrychong25/HandCycleWeb)).
+This is a mobile app developed for project name "[Development of low cost upper and lower extremities rehabilitation system with interactive feedback for children with movement disorders](https://ieeexplore.ieee.org/document/7843556/)", which capable of communicating with [Firebase](https://firebase.google.com/) host and [Arduino](https://www.arduino.cc/) board via Bluetooth communication. This project is developed altogether with a [website](https://github.com/ieeemysight4rehab/hand-cycle-web).
 
 ## Deployment
 
-Tested on Android 4.X tablet.
+Tested on Android tablet.
 
 ## Built With
 
