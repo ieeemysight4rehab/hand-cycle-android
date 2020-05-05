@@ -1,5 +1,9 @@
 # Hand Cycle App
 
+[![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/hand-cycle-android.svg)](https://gitHub.com/ieeemysight4rehab/hand-cycle-android/releases/)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ieeemysight4rehab/hand-cycle-android/graphs/commit-activity)
+[![HitCount](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android.svg)](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android)
+
 <p align="center">
   <img src="Tablet7ScreenShot1.png" alt="Hand Cycle Screenshot Login"
        width="300" height="533">
