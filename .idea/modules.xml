@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Android.iml" filepath="$PROJECT_DIR$/Android.iml" />
-      <module fileurl="file://$PROJECT_DIR$/HandCycleAndroid.iml" filepath="$PROJECT_DIR$/HandCycleAndroid.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/hand-cycle-android.iml" filepath="$PROJECT_DIR$/.idea/modules/hand-cycle-android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/hand-cycle-android.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/hand-cycle-android.app.iml" />
     </modules>
   </component>
 </project>
