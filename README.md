@@ -2,6 +2,7 @@
 
 [![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/hand-cycle-android.svg)](https://gitHub.com/ieeemysight4rehab/hand-cycle-android/releases/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ieeemysight4rehab/hand-cycle-android/graphs/commit-activity)
+[![CodeQL](https://github.com/ieeemysight4rehab/hand-cycle-android/workflows/CodeQL/badge.svg)](https://github.com/ieeemysight4rehab/hand-cycle-android/actions?query=workflow%3ACodeQL)
 [![HitCount](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android.svg)](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android)
 
 <p align="center">
