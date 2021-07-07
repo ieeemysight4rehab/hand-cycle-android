@@ -3,7 +3,7 @@
 [![GitHub release](https://img.shields.io/github/release/ieeemysight4rehab/hand-cycle-android.svg)](https://gitHub.com/ieeemysight4rehab/hand-cycle-android/releases/)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/ieeemysight4rehab/hand-cycle-android/graphs/commit-activity)
 [![CodeQL](https://github.com/ieeemysight4rehab/hand-cycle-android/workflows/CodeQL/badge.svg)](https://github.com/ieeemysight4rehab/hand-cycle-android/actions?query=workflow%3ACodeQL)
-[![HitCount](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android.svg)](http://hits.dwyl.com/ieeemysight4rehab/hand-cycle-android)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fieeemysight4rehab%2Fhand-cycle-android&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 <p align="center">
   <img src="Tablet7ScreenShot1.png" alt="Hand Cycle Screenshot Login"
